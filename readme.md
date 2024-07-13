@@ -12,9 +12,9 @@
 
 - 💬 Have any doubt? Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,SQL, ML Algo,Java,C,C++,HTML,CSS,JavaScript**
 
-- 📫 How to reach me **kunalranjan.dev@gmail.com**
+- 📫 How to reach me **araj03cpr@gmail.com**
 
-- ⚡ Fun fact **Jupyter is my notebook**
+- ⚡ Fun fact **NPM is my manager**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
